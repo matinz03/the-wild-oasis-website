@@ -1,27 +1,26 @@
-import Link from "next/link";
-
-function Navigation() {
+export default function Navigation() {
   return (
-    <div>
-      <ul>
+    <nav className="z-10 text-xl">
+      <ul className="flex gap-16 items-center">
         <li>
-          <Link style={{ fontSize: "32px" }} href="/cabins">
-            cabins
-          </Link>
+          <a href="/cabins" className="hover:text-accent-400 transition-colors">
+            Cabins
+          </a>
         </li>
         <li>
-          <Link style={{ fontSize: "32px" }} href="/about">
-            about
-          </Link>
+          <a href="/about" className="hover:text-accent-400 transition-colors">
+            About
+          </a>
         </li>
         <li>
-          <Link style={{ fontSize: "32px" }} href="/account">
-            account
-          </Link>
+          <a
+            href="/account"
+            className="hover:text-accent-400 transition-colors"
+          >
+            Guest area
+          </a>
         </li>
       </ul>
-    </div>
+    </nav>
   );
 }
-
-export default Navigation;

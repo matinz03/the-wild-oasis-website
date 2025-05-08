@@ -1,9 +1,9 @@
+
 function page() {
   return (
     <div>
-      <title>
-        Account
-      </title>
+
+      <title>Account</title>
       <h1>account</h1>
     </div>
   );
