@@ -1,11 +1,12 @@
-import Image from "next/image";
 import Link from "next/link";
-import homePageImage from "@/public/bg.png";
+import Image from "next/image";
+import bg from "@/public/bg.png";
+
 export default function Page() {
   return (
     <main className="mt-24">
       <Image
-        src={homePageImage}
+        src={bg}
         fill
         placeholder="blur"
         quality={80}
