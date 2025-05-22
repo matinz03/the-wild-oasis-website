@@ -1,4 +1,4 @@
-# The Wild Oasis – Client Web App
+# The Wild Oasis Website – Client Web App
 
 > Luxury cabin booking web app built with Next.js, Tailwind CSS, Supabase, and Auth.js.
 
@@ -58,7 +58,7 @@ This project leverages the latest features of Next.js (App Router), Auth.js for 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/the-wild-oasis.git
+    git clone https://github.com/yourusername/the-wild-oasis-website.git
     cd the-wild-oasis
     ```
 
