@@ -58,7 +58,7 @@ This project leverages the latest features of Next.js (App Router), Auth.js for 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/the-wild-oasis-website.git
+    git clone https://github.com/matinz03/the-wild-oasis-website.git
     cd the-wild-oasis
     ```
 
