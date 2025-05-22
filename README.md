@@ -42,10 +42,10 @@ This project leverages the latest features of Next.js (App Router), Auth.js for 
 ## Screenshots
 
 <!-- Replace with your own image paths if needed -->
-![Homepage]([./screenshots/homepage.png](https://github.com/user-attachments/assets/55c58127-c03a-4a34-87f5-6905f5c228ab))
-![Cabins]([./screenshots/cabins.png](https://github.com/user-attachments/assets/aafafcbd-a344-40af-9b9b-4042a33fb8a9))
-![Profile]([./screenshots/profile.png](https://github.com/user-attachments/assets/5f2aac12-dad6-4b80-b478-ea76d1f56a68))
-![Reservations]([./screenshots/reservations.png](https://github.com/user-attachments/assets/d7ccfa1c-da3a-4b18-9741-a6b102422156))
+![Homepage]((https://github.com/user-attachments/assets/55c58127-c03a-4a34-87f5-6905f5c228ab))
+![Cabins]((https://github.com/user-attachments/assets/aafafcbd-a344-40af-9b9b-4042a33fb8a9))
+![Profile]((https://github.com/user-attachments/assets/5f2aac12-dad6-4b80-b478-ea76d1f56a68))
+![Reservations]((https://github.com/user-attachments/assets/d7ccfa1c-da3a-4b18-9741-a6b102422156))
 
 ---
 
