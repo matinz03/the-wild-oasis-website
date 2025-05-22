@@ -35,7 +35,7 @@ export default async function Navigation() {
                 alt={session.user.name}
                 referrerPolicy="no-referrer"
               />
-              <span>Guest area</span>
+              <span>Dashboard</span>
             </Link>
           ) : (
             <Link
