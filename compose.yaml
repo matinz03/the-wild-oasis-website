@@ -1,0 +1,11 @@
+﻿services:
+  web:
+    build: .
+    restart: unless-stopped
+    env_file:
+      - path: .env.local
+        required: false
+      - path: .env
+        required: false
+    ports:
+      - "127.0.0.1:${HOST_PORT:-3106}:3000"
